@@ -1,4 +1,2 @@
-Hallo Tom , whats up  
-changes im master
-
-now a merge conflict ? 
+<<<<<<< HEAD
+Make Love not War
