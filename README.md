@@ -6,4 +6,4 @@ I am currently working on a Git tutorial for my team
 
 TEST 2
 ------------------
-
+Trying to undo a commit
