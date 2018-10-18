@@ -8,4 +8,4 @@ TEST 2
 ------------------
 Trying to undo a commit
 
-Idiot
+I erased "idiot " here 
