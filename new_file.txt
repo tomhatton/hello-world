@@ -1,3 +1,1 @@
-this is a new file for testing pull request
-
-now with a tag ? 
+We figured out fetch and pull 
