@@ -1,9 +1,6 @@
-from future import division
+from __future__ import division
 
-print("hello world!")
+import tensorflow as tf
 
-# new changes forgot sth changes changes changes
 
-"""
-more CHANGES !!!
-"""
+print("Hello World, tensorflow is working!")
