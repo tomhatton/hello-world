@@ -9,3 +9,6 @@ TEST 2
 Trying to undo a commit
 
 I erased "idiot " here 
+
+
+git fetch 
