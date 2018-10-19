@@ -3,4 +3,15 @@ from __future__ import division
 import tensorflow as tf
 
 
-print("Hello World, tensorflow is working!")
+
+
+
+
+#<<<<<<< HEAD
+def greeting():
+    print("Hello world!")
+#=======
+def welcome():
+    print("Olá mundo!")
+#>>>>>>> Peters remote
+greeting()
