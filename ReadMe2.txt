@@ -1,11 +1,7 @@
-Here some new changes to understand git
+Here some new changes to understand git hello 2
 
 Change 1.5
 # change 2
-change 3
-<<<<<<< HEAD
-change 4.6
-=======
-change 4.5
-change 5
->>>>>>> 64530ccea00e796253b58e4cee76252f3e22203e
+change 3, hello
+
+change7
